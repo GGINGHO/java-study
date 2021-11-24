@@ -9,7 +9,7 @@ public class Student {
 	//생성자
 	public Student(String name, int age) {
 		isvisible = true;
-		temperature = 36.5;
+		temperature = 0.0;
 		this.name = name;
 		this.age = age;
 	}
